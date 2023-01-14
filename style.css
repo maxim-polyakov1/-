@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+img{
+    border: 5px dotted brown;
+}
+h1{
+color: midnightblue;
+}
+a{
+    color: rgb(0, 0, 0);
+    background-color: papayawhip;
+    border: 3px solid rgb(224, 58, 58);
+    padding: 5px;
+    border-radius: 7px;
+}
+.min{
+    margin-right: 150px;
